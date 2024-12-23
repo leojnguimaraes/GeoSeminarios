@@ -1,5 +1,5 @@
 # GeoSeminarios UFPE 
-<img src="https://github.com/user-attachments/assets/8a1e2e96-f0cd-463d-8c1e-7970aaa8f7ab" alt="Logo UFPE" style="height: 50px; width:50px;"/>
+<img src="https://github.com/user-attachments/assets/7b34ba8d-08f0-4853-8dcc-a753a7b0876a" alt="Logo UFPE" style="height: 50px; width:50px;"/>
 
 ## Organização:
 
