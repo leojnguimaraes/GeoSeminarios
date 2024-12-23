@@ -1,7 +1,9 @@
 # GeoSeminarios UFPE
 Seminários de Meios Porosos
 
-## Organização: LMCG, GEOQUANTT e ICSMP
+## Organização:
+
+![image](https://github.com/user-attachments/assets/9f2d0ce6-5dcf-42f5-aebb-e7f99337c29a)
 
 ## Apresentações
 
