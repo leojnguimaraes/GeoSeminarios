@@ -1,9 +1,8 @@
-# GeoSeminarios UFPE
-Seminários de Meios Porosos
+# GeoSeminarios UFPE ![image](https://github.com/user-attachments/assets/7b34ba8d-08f0-4853-8dcc-a753a7b0876a)
 
 ## Organização:
 
-![image](https://github.com/user-attachments/assets/9f2d0ce6-5dcf-42f5-aebb-e7f99337c29a)
+![image](https://github.com/user-attachments/assets/8a1e2e96-f0cd-463d-8c1e-7970aaa8f7ab)
 
 ## Apresentações
 
