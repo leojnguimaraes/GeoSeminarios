@@ -9,4 +9,4 @@ Seminários de Meios Porosos
 
 ## Material complementar
 
-- [Cursos de Geomecânica e Geoquímica _Gravados 2023_](https://github.com/leojnguimaraes/Modelagem_Hidrogeoquimica)
+- [Cursos de Geomecânica e Geoquímica - _Gravados 2023_](https://github.com/leojnguimaraes/Modelagem_Hidrogeoquimica)
