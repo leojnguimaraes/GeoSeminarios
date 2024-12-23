@@ -15,4 +15,6 @@
 
 ## Material complementar
 
-- Curso de Geomecânica e Geoquímica  -  [_Edição 2023 com Gravações_](https://github.com/leojnguimaraes/Modelagem_Hidrogeoquimica)  -  [_PDFs e Bibliografia de Geomecânica_](http://www.lmcg.ufpe.br/~leo/geomecanica/)
+- Curso de Geomecânica e Geoquímica (Leonardo Guimarães)
+  - [_Edição 2023 com Gravações_](https://github.com/leojnguimaraes/Modelagem_Hidrogeoquimica)
+  - [_PDFs e Bibliografia de Geomecânica_](http://www.lmcg.ufpe.br/~leo/geomecanica/)
