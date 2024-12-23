@@ -1,4 +1,4 @@
-# GeoSeminarios UFPE                ![image](https://github.com/user-attachments/assets/7b34ba8d-08f0-4853-8dcc-a753a7b0876a)
+# GeoSeminarios UFPE                ![               image](https://github.com/user-attachments/assets/7b34ba8d-08f0-4853-8dcc-a753a7b0876a)
 
 ## Organização:
 
