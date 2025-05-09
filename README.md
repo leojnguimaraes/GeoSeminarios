@@ -13,6 +13,8 @@
   - [Parte 2 🎦](https://drive.google.com/file/d/1E8bGVedPjoPx69NKFwQ3JuIl71x6C2v-/view?usp=sharing)
   - [Parte 3 🎦](https://drive.google.com/file/d/1Kp447E0hWQmawtmL9DE7RgeBLOdsOFiV/view?usp=sharing)
 
+- Profa. Carla Barreto (Fevereiro de 2025): [Vulcânicas Serra Geral 🎦](https://drive.google.com/file/d/1Ag9sI8GZHH-OxyxWckB5sABDjJi-ergb/view?usp=sharing)
+
 ## Material complementar
 
 - Curso de Geomecânica e Geoquímica (Disciplina PPGEC/UFPE - Leonardo Guimarães)
