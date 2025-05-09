@@ -7,6 +7,11 @@
 
 ## Apresentações
 
+- Profa Leila Brunet e Prof. Leonardo Guimarães (Outubro e Novembro de 2024): Pequena Revisão de Geomecânica Computacional
+  - [Parte 1 🎦](https://drive.google.com/file/d/1WBx8ID_SDLrYecepRxEMb8r-jzbm48l-/view?usp=sharing)
+  - [Parte 2 🎦](https://drive.google.com/file/d/1EeeTKr7XBt3-wvvVK26l3D3VOZ4Hy-fP/view?usp=sharing)
+  - [Parte 3 🎦](https://drive.google.com/file/d/157iXoCOkFqPuI9PUN_ix-zmKlh8SX7l9/view?usp=sharing)
+
 - Ricardo Wanderley (Dezembro de 2024):
   - [_Abordagem Integrada para Caracterização Geomecânica_](https://drive.google.com/file/d/13Y1XYgtEKku0k2MMthQIf9dPwCBfPYul/view?usp=sharing)
   - [Parte 1 🎦](https://drive.google.com/file/d/1nrsL2VdZi5QMd-7A6UXuRZ3gj_8ECtix/view?usp=sharing)
