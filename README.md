@@ -15,9 +15,10 @@
 
 - Profa. Carla Barreto (Fevereiro de 2025): [Vulcânicas Serra Geral 🎦](https://drive.google.com/file/d/1Ag9sI8GZHH-OxyxWckB5sABDjJi-ergb/view?usp=sharing)
 
-- Profa. Raquel Oliveira (Abril de 2025): [Simulação de Reservatórios com Acoplamento Geomecânico 🎦](https://drive.google.com/file/d/1Ki_CT7UXzg51nCtEAj0ZaEfTpRj7ketw/view?usp=sharing)
+- Profa. Raquel Oliveira (Março de 2025): [Simulação de Reservatórios com Acoplamento Geomecânico 🎦](https://drive.google.com/file/d/1Ki_CT7UXzg51nCtEAj0ZaEfTpRj7ketw/view?usp=sharing)
 
-- Prof. Leonardo Guimarães: [Formulação Acoplada Hidro-Mecânica em Meios Porosos Deformáveis 🎦](https://drive.google.com/file/d/1Lb5-A_SRwe72ptBeDI29HWZMD5vFi9PN/view?usp=sharing)
+- Prof. Leonardo Guimarães (Abril de 2025): Formulação Acoplada Hidro-Mecânica em Meios Porosos Deformáveis
+  - [Parte 1 🎦](https://drive.google.com/file/d/1Lb5-A_SRwe72ptBeDI29HWZMD5vFi9PN/view?usp=sharing)
 
 ## Material complementar
 
